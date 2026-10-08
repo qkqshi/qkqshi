@@ -40,10 +40,3 @@ I build software products for real-world workflows — from education tools and 
 
 <img src="./assets/03-footer.svg" width="100%" alt="Links and tech stack footer with website kilyadev.ru" />
 
-<div align="center">
-
-`C:\USERS\QKQSHI>` **run portfolio.exe**
-
-<sub>Retro OS edition. / Версия в стиле Retro OS.</sub>
-
-</div>
